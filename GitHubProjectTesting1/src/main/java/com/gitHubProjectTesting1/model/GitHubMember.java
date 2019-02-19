@@ -6,6 +6,7 @@ public class GitHubMember {
 	private Long id;
 	private String mailId;
 	private String name;
+	private String securityQuestion;
 	public Long getId() {
 		return id;
 	}
