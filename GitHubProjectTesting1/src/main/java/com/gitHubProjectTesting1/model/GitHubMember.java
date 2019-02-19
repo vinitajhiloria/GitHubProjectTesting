@@ -1,5 +1,7 @@
 package com.gitHubProjectTesting1.model;
-
+/*
+ * Model class GitHubMember
+ * */
 public class GitHubMember {
 	private Long id;
 	private String mailId;
