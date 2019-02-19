@@ -7,6 +7,11 @@ public class GitHubMember {
 	private String mailId;
 	private String name;
 	private String securityQuestion;
+	public void newMethodOfBranchingNode() {
+		/*
+		 * new method just to commit and change branch 
+		 * */
+	}
 	public Long getId() {
 		return id;
 	}
